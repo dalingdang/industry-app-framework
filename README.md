@@ -20,5 +20,5 @@ subsequent developers as their own responsibility***
    And modify the relevant address and account in the corresponding module into the correct address and account.
    You can use the corresponding component directly by calling the API interface encapsulated in the module.***
    
-## System architecture diagram
+# System architecture diagram
 <img src="http://app-framework-images.qingdao.cosmoplat.com/images1.jpg"/>
